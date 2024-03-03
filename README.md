@@ -65,3 +65,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" **alt="" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" title="Vercel" **alt="" width="40" height="40"/>
 </div>
+---
+
+### :fire: My Stats :
+
+<div align="center">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elbasel42&theme=dark&background=000000)](https://git.io/streak-stats)
+</div>
